@@ -3,11 +3,11 @@ title: "L02_ExploratoryVis"
 author: "Anya Chaliotis"
 date: "5/18/2019"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
-## Exploratory Visualizations
+## 2.  Exploratory Visualizations
 Used to:  
 a. Vizualize shape and spread  
 b. Find patterns in your data  
